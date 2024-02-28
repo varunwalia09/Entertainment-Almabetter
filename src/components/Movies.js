@@ -33,7 +33,7 @@ const Movies = () => {
       title: 'Back Stage',
       releaseYear: '1998',
       posterUrl: '/images/Back Stage.jpg',
-      videoUrl: '/images/Entertainment App Movie Video Sample.mp4',
+      videoUrl: '/images/Coffee.mp4',
     },
     {
       title: 'Bajirao Mastani',
@@ -51,7 +51,7 @@ const Movies = () => {
       title: 'Cadaver',
       releaseYear: '2022',
       posterUrl: '/images/Cadaver.jpg',
-      videoUrl: '/images/Entertainment App Movie Video Sample.mp4',
+      videoUrl: '/images/Coffee.mp4',
     },
     {
       title: 'Coolie',
@@ -69,13 +69,13 @@ const Movies = () => {
       title: 'Tad The lost Explorer',
       releaseYear: '2012',
       posterUrl: '/images/Tad The lost Explorer.jpg',
-      videoUrl: '/images/Entertainment App Movie Video Sample.mp4',
+      videoUrl: '/images/Tad The lost Explorer.mp4',
     },
     {
       title: 'Pink',
       releaseYear: '2016',
       posterUrl: '/images/Pink.jpg',
-      videoUrl: '/images/Entertainment App Movie Video Sample.mp4',
+      videoUrl: '/images/Pink.mp4',
     },
     {
       title: 'Jumanji',
