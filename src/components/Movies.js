@@ -81,31 +81,31 @@ const Movies = () => {
       title: 'Jumanji',
       releaseYear: '2017',
       posterUrl: '/images/Jumanji.jpg',
-      videoUrl: '/images/Entertainment App Movie Video Sample.mp4',
+      videoUrl: '/JUMANJi.mp4',
     },
     {
       title: 'Jurassic Park',
       releaseYear: '1993',
       posterUrl: '/images/Jurassic Park.jpg',
-      videoUrl: '/images/Entertainment App Movie Video Sample.mp4',
+      videoUrl: '/images/JUMANJI.mp4',
     },
     {
       title: 'Journey-2',
       releaseYear: '2012',
       posterUrl: '/images/Journey-2.jpg',
-      videoUrl: '/images/Entertainment App Movie Video Sample.mp4',
+      videoUrl: '/images/Journey.mp4',
     },
     {
       title: 'Spider-man-2',
       releaseYear: '2004',
       posterUrl: '/images/Spider-man-2.jpg',
-      videoUrl: '/images/Entertainment App Movie Video Sample.mp4',
+      videoUrl: '/images/Spider.mp4',
     },
     {
       title: 'Onwords',
       releaseYear: '2020',
       posterUrl: '/images/Onwords.jpg',
-      videoUrl: '/images/Entertainment App Movie Video Sample.mp4',
+      videoUrl: '/images/Spider.mp4',
     },
   ];
 
